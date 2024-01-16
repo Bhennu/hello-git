@@ -1,1 +1,1 @@
-print ("Hello Python")
+print ("New Hello Python")
